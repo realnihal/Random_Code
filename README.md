@@ -18,3 +18,10 @@ this is a program simulating a game where you can guess a no where your only inp
 
 ### math_game.py
 this is a elementary programs that gives you basic questions to solve and grades you accordingly. please note that the division accurace tolerance is set to 0.1, please change this if you want a different tolerance level.
+
+### amazon_price_scraper.py
+this is a program which can track the price of a product on amazon and can send you an email if the price drops below a desired value.
+user has to enter a few details:
+the URL of the amazon page which has the product you want
+the email address and the relevant app key
+the price you wish to be informed at
