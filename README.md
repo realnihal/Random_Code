@@ -25,3 +25,6 @@ user has to enter a few details:
 the URL of the amazon page which has the product you want
 the email address and the relevant app key
 the price you wish to be informed at
+
+###Imageliner.py
+its a program that takes an image and applies a nice filter to it and converts it to a liner effect.
