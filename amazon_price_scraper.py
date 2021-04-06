@@ -38,7 +38,7 @@ def send_mail():
     server.ehlo()
     print("server connected")
 
-    server.login('nihalpuramgiis@gmail.com','nomivpeiawqwbmxb')
+    server.login('nihalpuramgiis@gmail.com','REDACTED')
     print("login successful")
     subject = "price fell down buy now \n"
     body = " open the link \n https://www.amazon.in/ZR-Aluminum-Strung-Badminton-Racquet/dp/B07QWSNTVY/ref=sr_1_2?dchild=1&keywords=badminton&qid=1591530583&sr=8-2"
